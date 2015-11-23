@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.4.0 (1781 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+  <node id="278866477" visible="true" version="12" changeset="32504987" timestamp="2015-07-08T20:18:37Z" user="Fazu" uid="2800067" lat="47.4766955" lon="19.0357352">
+    <tag k="bench" v="yes" />
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Vincellér utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02123" />
+    <tag k="shelter" v="yes" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1506.7239696254558" />
+  </node>
+  <node id="278866509" visible="true" version="12" changeset="28588770" timestamp="2015-02-03T13:01:42Z" user="itamas80" uid="1719518" lat="47.4715487" lon="19.0334970">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Karolina út" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02044" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1837.0566661968762" />
+  </node>
+  <node id="436632615" visible="true" version="4" changeset="11733671" timestamp="2012-05-29T07:32:10Z" user="wheelmap_visitor" uid="290680" lat="47.4796300" lon="19.0672710">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="54, 55, 979, 979A" />
+    <tag k="name" v="Boráros tér H" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="F01376" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="885.7483390477672" />
+  </node>
+  <node id="436632573" visible="true" version="8" changeset="28588770" timestamp="2015-02-03T13:04:16Z" user="itamas80" uid="1719518" lat="47.4767268" lon="19.0342699">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Újbuda, Függetlenségi park" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="009303" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1615.3295494187912" />
+  </node>
+  <node id="436632559" visible="true" version="13" changeset="28812266" timestamp="2015-02-13T02:17:47Z" user="itamas80" uid="1719518" lat="47.4769628" lon="19.0533880">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Budafoki út / Karinthy Frigyes út" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02152" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="248.25154480319262" />
+  </node>
+  <node id="436632558" visible="true" version="9" changeset="28588770" timestamp="2015-02-03T13:01:58Z" user="itamas80" uid="1719518" lat="47.4749334" lon="19.0389208">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Kosztolányi Dezső tér" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02183" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1317.7427789079259" />
+  </node>
+  <node id="436632631" visible="true" version="12" changeset="28812266" timestamp="2015-02-13T02:17:59Z" user="itamas80" uid="1719518" lat="47.4805020" lon="19.0365530">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Szüret utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02129" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1444.7035886206738" />
+  </node>
+  <node id="436632575" visible="true" version="13" changeset="32504540" timestamp="2015-07-08T19:59:12Z" user="Fazu" uid="2800067" lat="47.4800073" lon="19.0374013">
+    <tag k="bench" v="yes" />
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Szüret utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02128" />
+    <tag k="shelter" v="yes" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1374.460550310255" />
+  </node>
+  <node id="435620481" visible="true" version="11" changeset="28588770" timestamp="2015-02-03T13:00:23Z" user="itamas80" uid="1719518" lat="47.4740166" lon="19.0527453">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Budafoki út / Szerémi sor" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="F01987" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="555.8615713513719" />
+  </node>
+  <node id="420420815" visible="true" version="9" changeset="28812266" timestamp="2015-02-13T02:17:52Z" user="itamas80" uid="1719518" lat="47.4744307" lon="19.0402423">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Kosztolányi Dezső tér" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02185" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1243.7040613774814" />
+  </node>
+  <node id="436632557" visible="true" version="11" changeset="32504987" timestamp="2015-07-08T20:18:37Z" user="Fazu" uid="2800067" lat="47.4759156" lon="19.0390376">
+    <tag k="bench" v="yes" />
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Kosztolányi Dezső tér" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02182" />
+    <tag k="shelter" v="yes" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1279.276513056525" />
+  </node>
+  <node id="436632565" visible="true" version="11" changeset="28588770" timestamp="2015-02-03T13:02:29Z" user="itamas80" uid="1719518" lat="47.4775701" lon="19.0462661">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02193" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="709.7099200356549" />
+  </node>
+  <node id="436633320" visible="true" version="10" changeset="28588770" timestamp="2015-02-03T13:02:29Z" user="itamas80" uid="1719518" lat="47.4777864" lon="19.0479336">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02192" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="582.1409265495113" />
+  </node>
+  <node id="436632574" visible="true" version="8" changeset="32504987" timestamp="2015-07-08T20:18:37Z" user="Fazu" uid="2800067" lat="47.4763650" lon="19.0357580">
+    <tag k="bench" v="yes" />
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Vincellér utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02124" />
+    <tag k="shelter" v="yes" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1510.7355898441913" />
+  </node>
+  <node id="436632584" visible="true" version="12" changeset="28588770" timestamp="2015-02-03T13:04:17Z" user="itamas80" uid="1719518" lat="47.4741883" lon="19.0470306">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Újbuda-központ M" />
+    <tag k="old_name" v="Fehérvári út (Bocskai út)" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="009570" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="810.5751000231135" />
+  </node>
+  <node id="436632583" visible="true" version="11" changeset="28588770" timestamp="2015-02-03T13:04:17Z" user="itamas80" uid="1719518" lat="47.4743677" lon="19.0457110">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Újbuda-központ M" />
+    <tag k="old_name" v="Fehérvári út (Bocskai út)" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="009709" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="880.3107027647804" />
+  </node>
+  <node id="436632613" visible="true" version="5" changeset="11733671" timestamp="2012-05-29T07:33:12Z" user="wheelmap_visitor" uid="290680" lat="47.4795013" lon="19.0679586">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="23E, 923, 966" />
+    <tag k="name" v="Boráros tér H" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="F01515" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="935.4587866154369" />
+  </node>
+  <node id="436632614" visible="true" version="4" changeset="11733671" timestamp="2012-05-29T07:55:16Z" user="wheelmap_visitor" uid="290680" lat="47.4796705" lon="19.0679196">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="23, 979, 979A" />
+    <tag k="name" v="Boráros tér H" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="008546" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="934.6736976982962" />
+  </node>
+  <node id="420420813" visible="true" version="8" changeset="11722183" timestamp="2012-05-28T04:16:21Z" user="wheelmap_visitor" uid="290680" lat="47.4747478" lon="19.0410904">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="172E, 272" />
+    <tag k="name" v="Kosztolányi Dezső tér" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="F02188" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1171.4147058110477" />
+  </node>
+  <node id="420420812" visible="true" version="6" changeset="11722183" timestamp="2012-05-28T04:16:22Z" user="wheelmap_visitor" uid="290680" lat="47.4749147" lon="19.0413851">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="87, 87A, 187" />
+    <tag k="name" v="Kosztolányi Dezső tér" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="F02178" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1144.016257635449" />
+  </node>
+  <node id="435620499" visible="true" version="12" changeset="28812266" timestamp="2015-02-13T02:17:47Z" user="itamas80" uid="1719518" lat="47.4728482" lon="19.0525851">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Budafoki út / Szerémi sor" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01991" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="681.5865140702015" />
+  </node>
+  <node id="420420814" visible="true" version="10" changeset="28812266" timestamp="2015-02-13T02:17:52Z" user="itamas80" uid="1719518" lat="47.4746659" lon="19.0400448">
+    <tag k="highway" v="bus_stop" />
+    <tag k="local_ref" v="Leszállóhely" />
+    <tag k="name" v="Kosztolányi Dezső tér" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02231" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1247.9829838570167" />
+  </node>
+  <node id="436632612" visible="true" version="10" changeset="28783672" timestamp="2015-02-11T21:18:04Z" user="itamas80" uid="1719518" lat="47.4799582" lon="19.0675532">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Boráros tér H" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01514" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="911.9651981416026" />
+  </node>
+  <node id="435620491" visible="true" version="9" changeset="28588770" timestamp="2015-02-03T13:00:22Z" user="itamas80" uid="1719518" lat="47.4739262" lon="19.0529244">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Budafoki út / Szerémi sor" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01990" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="560.2301954649778" />
+  </node>
+  <node id="436632553" visible="true" version="12" changeset="28588770" timestamp="2015-02-03T13:01:58Z" user="itamas80" uid="1719518" lat="47.4758355" lon="19.0421732">
+    <tag k="bench" v="yes" />
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Kosztolányi Dezső tér" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02176" />
+    <tag k="shelter" v="yes" />
+    <tag k="tactile_paving" v="no" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1054.3683018489228" />
+  </node>
+  <node id="436632560" visible="true" version="11" changeset="28812266" timestamp="2015-02-13T02:17:46Z" user="itamas80" uid="1719518" lat="47.4754170" lon="19.0531072">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Budafoki út / Karinthy Frigyes út" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02155" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="403.07506437106775" />
+  </node>
+  <node id="435620494" visible="true" version="9" changeset="28588770" timestamp="2015-02-03T13:00:22Z" user="itamas80" uid="1719518" lat="47.4735964" lon="19.0530876">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Budafoki út / Szerémi sor" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01988" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="590.6451612029059" />
+  </node>
+  <node id="436632563" visible="true" version="11" changeset="28588770" timestamp="2015-02-03T13:03:21Z" user="itamas80" uid="1719518" lat="47.4824473" lon="19.0529573">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Szent Gellért tér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02144" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="467.44299717384274" />
+  </node>
+  <node id="436632562" visible="true" version="18" changeset="28812266" timestamp="2015-02-13T02:17:58Z" user="itamas80" uid="1719518" lat="47.4828952" lon="19.0539465">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Szent Gellért tér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02143" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="489.3519364312895" />
+  </node>
+  <node id="436632556" visible="true" version="11" changeset="28588770" timestamp="2015-02-03T13:01:58Z" user="itamas80" uid="1719518" lat="47.4748900" lon="19.0421000">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Kosztolányi Dezső tér" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02180" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1095.1365044435809" />
+  </node>
+  <node id="436632582" visible="true" version="11" changeset="28588770" timestamp="2015-02-03T13:02:48Z" user="itamas80" uid="1719518" lat="47.4768616" lon="19.0589726">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Petőfi híd, budai hídfő" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="009179" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="322.4586134061569" />
+  </node>
+  <node id="436632581" visible="true" version="8" changeset="32488879" timestamp="2015-07-08T07:35:34Z" user="dk_hk" uid="3043806" lat="47.4758035" lon="19.0576032">
+    <tag k="alt_name" v="Petőfi híd, budai hídfő" />
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Budapest, Petőfi híd, budai hídfő" />
+    <tag k="operator" v="Volánbusz" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="349.6905062252305" />
+  </node>
+  <node id="436633318" visible="true" version="10" changeset="28588770" timestamp="2015-02-03T13:01:42Z" user="itamas80" uid="1719518" lat="47.4734238" lon="19.0354078">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Karolina út" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02048" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1622.8307997037473" />
+  </node>
+  <node id="408733516" visible="true" version="8" changeset="28812209" timestamp="2015-02-13T02:08:48Z" user="itamas80" uid="1719518" lat="47.4735220" lon="19.0345250">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Karolina út" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="009412" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1681.2474519139205" />
+  </node>
+  <node id="369619228" visible="true" version="12" changeset="28588770" timestamp="2015-02-03T13:04:16Z" user="itamas80" uid="1719518" lat="47.4738322" lon="19.0474847">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Újbuda-központ M" />
+    <tag k="old_name" v="Fehérvári út (Bocskai út)" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01995" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="809.3682631820732" />
+  </node>
+  <node id="436632580" visible="true" version="11" changeset="16399266" timestamp="2013-06-02T23:02:19Z" user="flaktack" uid="55843" lat="47.4766230" lon="19.0593005">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="203" />
+    <tag k="name" v="Petőfi híd, budai hídfő" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="008854" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="358.22977373356514" />
+  </node>
+  <node id="369619230" visible="true" version="9" changeset="21891119" timestamp="2014-04-23T17:14:20Z" user="egmontkob" uid="2044735" lat="47.4741592" lon="19.0473793">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="150E" />
+    <tag k="name" v="Újbuda-központ M" />
+    <tag k="old_name" v="Fehérvári út (Bocskai út)" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="009579" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="791.9986329028086" />
+  </node>
+  <node id="436632564" visible="true" version="11" changeset="28588770" timestamp="2015-02-03T13:03:21Z" user="itamas80" uid="1719518" lat="47.4823207" lon="19.0525564">
+    <tag k="bench" v="yes" />
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Szent Gellért tér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02145" />
+    <tag k="shelter" v="yes" />
+    <tag k="tactile_paving" v="no" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="468.54730155748786" />
+  </node>
+  <node id="436632561" visible="true" version="12" changeset="28812266" timestamp="2015-02-13T02:17:58Z" user="itamas80" uid="1719518" lat="47.4829291" lon="19.0537881">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Szent Gellért tér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02142" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="496.0953295785423" />
+  </node>
+  <node id="436632630" visible="true" version="14" changeset="28801765" timestamp="2015-02-12T18:24:39Z" user="itamas80" uid="1719518" lat="47.4781578" lon="19.0451879">
+    <tag k="highway" v="bus_stop" />
+    <tag k="local_ref" v="27" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02196" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="782.5936605007112" />
+  </node>
+  <node id="436632576" visible="true" version="10" changeset="28588770" timestamp="2015-02-03T13:03:36Z" user="itamas80" uid="1719518" lat="47.4803068" lon="19.0358596">
+    <tag k="highway" v="bus_stop" />
+    <tag k="local_ref" v="40, 153" />
+    <tag k="name" v="Szüret utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02125" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1493.4366060500734" />
+  </node>
+  <node id="435620478" visible="true" version="14" changeset="28812266" timestamp="2015-02-13T02:17:47Z" user="itamas80" uid="1719518" lat="47.4744219" lon="19.0526691">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Budafoki út / Szerémi sor" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01986" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="516.9134043337825" />
+  </node>
+  <node id="596836390" visible="true" version="7" changeset="28812266" timestamp="2015-02-13T02:17:45Z" user="itamas80" uid="1719518" lat="47.4817829" lon="19.0430097">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Balogh Tihamér utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02132" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1007.2538343508107" />
+  </node>
+  <node id="596836452" visible="true" version="7" changeset="28812266" timestamp="2015-02-13T02:17:48Z" user="itamas80" uid="1719518" lat="47.4852207" lon="19.0405745">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Búsuló Juhász (Citadella)" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02138" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1344.4048924490235" />
+  </node>
+  <node id="596836448" visible="true" version="8" changeset="28812266" timestamp="2015-02-13T02:17:51Z" user="itamas80" uid="1719518" lat="47.4834042" lon="19.0403818">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Iglói utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02131" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1259.0812540099355" />
+  </node>
+  <node id="596836393" visible="true" version="9" changeset="29274818" timestamp="2015-03-05T19:50:28Z" user="zokert" uid="2347244" lat="47.4832190" lon="19.0435980">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Rezeda utca" />
+    <tag k="old_name" v="Kelenhegyi út 42." />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02137" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1034.5464181550126" />
+  </node>
+  <node id="596836459" visible="true" version="8" changeset="29274818" timestamp="2015-03-05T19:50:28Z" user="zokert" uid="2347244" lat="47.4833563" lon="19.0435922">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Rezeda utca" />
+    <tag k="old_name" v="Kelenhegyi út 45." />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02136" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1042.5293046313363" />
+  </node>
+  <node id="596836387" visible="true" version="8" changeset="28812266" timestamp="2015-02-13T02:17:53Z" user="itamas80" uid="1719518" lat="47.4815730" lon="19.0381320">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Ménesi út" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02254" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1351.1272616468436" />
+  </node>
+  <node id="596836389" visible="true" version="8" changeset="28812266" timestamp="2015-02-13T02:17:54Z" user="itamas80" uid="1719518" lat="47.4819343" lon="19.0383581">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Ménesi út" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02255" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1345.0413781953844" />
+  </node>
+  <node id="596836447" visible="true" version="8" changeset="29274818" timestamp="2015-03-05T19:50:25Z" user="zokert" uid="2347244" lat="47.4834890" lon="19.0398430">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Iglói utca" />
+    <tag k="old_name" v="Somlói út" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02130" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1299.8031654522051" />
+  </node>
+  <node id="596836392" visible="true" version="8" changeset="28812266" timestamp="2015-02-13T02:17:45Z" user="itamas80" uid="1719518" lat="47.4817904" lon="19.0431823">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Balogh Tihamér utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02133" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="995.3953076606299" />
+  </node>
+  <node id="596836396" visible="true" version="8" changeset="28812266" timestamp="2015-02-13T02:17:52Z" user="itamas80" uid="1719518" lat="47.4819510" lon="19.0453760">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Kelenhegyi lépcső" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02135" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="850.7133628840575" />
+  </node>
+  <node id="645364715" visible="true" version="14" changeset="28801765" timestamp="2015-02-12T18:24:39Z" user="itamas80" uid="1719518" lat="47.4781000" lon="19.0456521">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02198" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="748.2750150018603" />
+  </node>
+  <node id="598189941" visible="true" version="7" changeset="28772411" timestamp="2015-02-11T12:36:14Z" user="itamas80" uid="1719518" lat="47.4850414" lon="19.0623978">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Czuczor utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01337" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="877.6244262955823" />
+  </node>
+  <node id="643519612" visible="true" version="13" changeset="28588770" timestamp="2015-02-03T13:02:29Z" user="itamas80" uid="1719518" lat="47.4778130" lon="19.0458540">
+    <tag k="highway" v="bus_stop" />
+    <tag k="local_ref" v="Leszállóhely" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02201" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="736.4273122154839" />
+  </node>
+  <node id="638352437" visible="true" version="3" changeset="11722183" timestamp="2012-05-28T04:18:26Z" user="wheelmap_visitor" uid="290680" lat="47.4756803" lon="19.0400267">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Budapest, Bocskai út" />
+    <tag k="operator" v="Volánbusz" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1213.9943206002813" />
+  </node>
+  <node id="598189943" visible="true" version="8" changeset="28799901" timestamp="2015-02-12T17:05:49Z" user="itamas80" uid="1719518" lat="47.4853339" lon="19.0696188">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Corvin-negyed M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01195" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1291.644146544483" />
+  </node>
+  <node id="603263405" visible="true" version="13" changeset="28588770" timestamp="2015-02-03T13:04:17Z" user="itamas80" uid="1719518" lat="47.4740451" lon="19.0484570">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Újbuda-központ M" />
+    <tag k="old_name" v="Fehérvári út (Bocskai út)" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02000" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="739.4618375532964" />
+  </node>
+  <node id="596836395" visible="true" version="11" changeset="29274818" timestamp="2015-03-05T19:50:26Z" user="zokert" uid="2347244" lat="47.4812130" lon="19.0451770">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Kelenhegyi lépcső" />
+    <tag k="old_name" v="Somló lépcső" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02134" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="832.5179077952122" />
+  </node>
+  <node id="671719367" visible="true" version="13" changeset="28801765" timestamp="2015-02-12T18:24:39Z" user="itamas80" uid="1719518" lat="47.4782239" lon="19.0446148">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="022814" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="825.130185031821" />
+  </node>
+  <node id="692474491" visible="true" version="8" changeset="28772411" timestamp="2015-02-11T12:36:13Z" user="itamas80" uid="1719518" lat="47.4812295" lon="19.0653549">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Boráros tér H (Közraktár utca)" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="distance" v="789.4173124919597" />
+  </node>
+  <node id="692474493" visible="true" version="6" changeset="21642308" timestamp="2014-04-12T08:50:16Z" user="kdano" uid="1519787" lat="47.4814633" lon="19.0671539">
+    <tag k="disused:highway" v="bus_stop" />
+    <tag k="name" v="Boráros tér" />
+    <tag k="operator" v="BKV" />
+    <tag k="distance" v="925.1034516868086" />
+  </node>
+  <node id="692474508" visible="true" version="4" changeset="21739307" timestamp="2014-04-16T22:34:33Z" user="kdano" uid="1519787" lat="47.4834569" lon="19.0659401">
+    <tag k="disused:highway" v="bus_stop" />
+    <tag k="name" v="Bakáts tér" />
+    <tag k="operator" v="BKV" />
+    <tag k="distance" v="945.5103848589164" />
+  </node>
+  <node id="696743299" visible="true" version="6" changeset="28588770" timestamp="2015-02-03T13:02:23Z" user="itamas80" uid="1719518" lat="47.4711693" lon="19.0731618">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Millenniumi Kulturális Központ" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="008239" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1560.6874282167455" />
+  </node>
+  <node id="692474492" visible="true" version="4" changeset="28771836" timestamp="2015-02-11T12:10:03Z" user="itamas80" uid="1719518" lat="47.4824297" lon="19.0648000">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Lónyay utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01345" />
+    <tag k="distance" v="811.4488778638798" />
+  </node>
+  <node id="696743148" visible="true" version="8" changeset="29274818" timestamp="2015-03-05T19:50:25Z" user="zokert" uid="2347244" lat="47.4747464" lon="19.0701291">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Haller utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="009042" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1176.0067978792606" />
+  </node>
+  <node id="696743182" visible="true" version="6" changeset="28588770" timestamp="2015-02-03T13:04:07Z" user="itamas80" uid="1719518" lat="47.4827354" lon="19.0630697">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Zsil utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="009365" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="724.5367232727457" />
+  </node>
+  <node id="741109503" visible="true" version="7" changeset="28588770" timestamp="2015-02-03T13:03:22Z" user="itamas80" uid="1719518" lat="47.4694717" lon="19.0337489">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Szent Imre Kórház" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02034" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1931.2394216989853" />
+  </node>
+  <node id="738593987" visible="true" version="12" changeset="28783672" timestamp="2015-02-11T21:18:16Z" user="itamas80" uid="1719518" lat="47.4775530" lon="19.0486923">
+    <tag k="alt_name" v="Móricz Zsigmond körtér (Karinthy Fr.út)" />
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="011319" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="wheelchair:description" v="Megszűnt megálló." />
+    <tag k="distance" v="531.2254844846127" />
+  </node>
+  <node id="727335625" visible="true" version="8" changeset="28588770" timestamp="2015-02-03T13:03:48Z" user="itamas80" uid="1719518" lat="47.4663475" lon="19.0338834">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Tétényi út 30." />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02033" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="2127.2892268358473" />
+  </node>
+  <node id="727338150" visible="true" version="9" changeset="28588770" timestamp="2015-02-03T13:03:48Z" user="itamas80" uid="1719518" lat="47.4663945" lon="19.0341759">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Tétényi út 30." />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02032" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="2107.1053119458265" />
+  </node>
+  <node id="738750758" visible="true" version="7" changeset="8705646" timestamp="2011-07-12T18:44:12Z" user="flaktack" uid="55843" lat="47.4695111" lon="19.0600107">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="203, 203A" />
+    <tag k="name" v="Neumann János utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="008355;008855" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1067.807758080519" />
+  </node>
+  <node id="741109486" visible="true" version="8" changeset="28588770" timestamp="2015-02-03T13:03:21Z" user="itamas80" uid="1719518" lat="47.4681311" lon="19.0338589">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Szent Imre Kórház" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02035" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="2007.1563960003996" />
+  </node>
+  <node id="839671096" visible="true" version="3" changeset="28772411" timestamp="2015-02-11T12:36:13Z" user="itamas80" uid="1719518" lat="47.4806792" lon="19.0676723">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Boráros tér H" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="936.9562017041872" />
+  </node>
+  <node id="839671046" visible="true" version="5" changeset="28799901" timestamp="2015-02-12T17:05:57Z" user="itamas80" uid="1719518" lat="47.4822418" lon="19.0687863">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Mester utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="007887" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1070.6328372056164" />
+  </node>
+  <node id="738805876" visible="true" version="7" changeset="28588770" timestamp="2015-02-03T13:02:48Z" user="itamas80" uid="1719518" lat="47.4765698" lon="19.0591971">
+    <tag k="alt_name" v="Budapest, Petőfi híd, budai hídfő" />
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Petőfi híd, budai hídfő" />
+    <tag k="operator" v="BKV;Volánbusz" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02222" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="355.9797362608103" />
+  </node>
+  <node id="839671076" visible="true" version="5" changeset="28772411" timestamp="2015-02-11T12:36:13Z" user="itamas80" uid="1719518" lat="47.4803100" lon="19.0659301">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Boráros tér H" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="distance" v="800.0222488857263" />
+  </node>
+  <node id="706658366" visible="true" version="5" changeset="28772411" timestamp="2015-02-11T12:36:13Z" user="itamas80" uid="1719518" lat="47.4806760" lon="19.0655672">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Boráros tér" />
+    <tag k="note" v="villamospótló megállóhely" />
+    <tag k="public_transport" v="stop" />
+    <tag k="distance" v="784.3198511900594" />
+  </node>
+  <node id="738593932" visible="true" version="12" changeset="28812266" timestamp="2015-02-13T02:17:47Z" user="itamas80" uid="1719518" lat="47.4761636" lon="19.0526707">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Budafoki út / Karinthy Frigyes út" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02156" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="351.01620882244583" />
+  </node>
+  <node id="738594040" visible="true" version="15" changeset="28783672" timestamp="2015-02-11T21:18:16Z" user="itamas80" uid="1719518" lat="47.4769627" lon="19.0498880">
+    <tag k="alt_name" v="Móricz Zsigmond körtér (Karinthy Fr.út)" />
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02150" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="466.2407034328234" />
+  </node>
+  <node id="717555427" visible="true" version="6" changeset="21891119" timestamp="2014-04-23T17:14:20Z" user="egmontkob" uid="2044735" lat="47.4745431" lon="19.0463753">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="973" />
+    <tag k="name" v="Újbuda-központ M" />
+    <tag k="old_name" v="Bocskai út" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="008740" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="827.8102551973443" />
+  </node>
+  <node id="714125454" visible="true" version="6" changeset="28772411" timestamp="2015-02-11T12:36:18Z" user="itamas80" uid="1719518" lat="47.4839110" lon="19.0624140">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Közraktár utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01340" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="779.8641713084336" />
+  </node>
+  <node id="738593900" visible="true" version="11" changeset="30165021" timestamp="2015-04-12T14:57:39Z" user="Hai Nguyen Hoang" uid="2821980" lat="47.4697927" lon="19.0533149">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Budafoki út / Dombóvári út" />
+    <tag k="old_name" v="Dombóvári út" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01985" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="997.7702749339102" />
+  </node>
+  <node id="747743976" visible="true" version="5" changeset="20590902" timestamp="2014-02-16T09:14:37Z" user="kdano" uid="1519787" lat="47.4843420" lon="19.0610218">
+    <tag k="disused:highway" v="bus_stop" />
+    <tag k="name" v="Czuczor utca" />
+    <tag k="note" v="A route=* kapcsolatokban a public_transport=stop kapcsolatot használd" />
+    <tag k="operator" v="BKV" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="755.0903963792856" />
+  </node>
+  <node id="738593918" visible="true" version="12" changeset="29530995" timestamp="2015-03-17T00:51:21Z" user="itamas80" uid="1719518" lat="47.4686628" lon="19.0530123">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Budafoki út / Dombóvári út" />
+    <tag k="old_name" v="Dombóvári út" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01984" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1125.44819666229" />
+  </node>
+  <node id="839671062" visible="true" version="8" changeset="28799901" timestamp="2015-02-12T17:05:58Z" user="itamas80" uid="1719518" lat="47.4824818" lon="19.0684890">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Mester utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="007888" />
+    <tag k="distance" v="1060.4309127755898" />
+  </node>
+  <node id="1321488774" visible="true" version="8" changeset="28799901" timestamp="2015-02-12T17:05:56Z" user="itamas80" uid="1719518" lat="47.4666464" lon="19.0760721">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Közvágóhíd" />
+    <tag k="official_name" v="Közvágóhíd H" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="009290" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="2037.1167179026168" />
+  </node>
+  <node id="1321488775" visible="true" version="9" changeset="28811000" timestamp="2015-02-12T23:53:13Z" user="itamas80" uid="1719518" lat="47.4676089" lon="19.0766512">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Közvágóhíd H" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01404" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="2002.9750021263956" />
+  </node>
+  <node id="1382906575" visible="true" version="5" changeset="28772411" timestamp="2015-02-11T12:36:21Z" user="itamas80" uid="1719518" lat="47.4829434" lon="19.0630489">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Zsil utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="008150" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="738.1206128567572" />
+  </node>
+  <node id="1359724645" visible="true" version="4" changeset="27826728" timestamp="2014-12-31T16:45:46Z" user="Bratkó József" uid="419389" lat="47.4701455" lon="19.0448051">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="973" />
+    <tag k="name" v="Csonka János tér" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="008486" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="yes" />
+    <tag k="distance" v="1243.59407667179" />
+  </node>
+  <node id="1359724647" visible="true" version="4" changeset="18518380" timestamp="2013-10-24T11:36:34Z" user="dani0023" uid="714340" lat="47.4705160" lon="19.0453159">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="973" />
+    <tag k="name" v="Csonka János tér" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="009425" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1187.3295613215623" />
+  </node>
+  <node id="1359724692" visible="true" version="4" changeset="27826728" timestamp="2014-12-31T16:45:56Z" user="Bratkó József" uid="419389" lat="47.4678345" lon="19.0440014">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="973" />
+    <tag k="name" v="Hauszmann Alajos utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="F02002" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="yes" />
+    <tag k="distance" v="1482.965818698114" />
+  </node>
+  <node id="1359724685" visible="true" version="3" changeset="14952065" timestamp="2013-02-08T04:21:36Z" user="wheelmap_visitor" uid="290680" lat="47.4675760" lon="19.0442844">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="973" />
+    <tag k="name" v="Hauszmann Alajos utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="F02005" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1494.153654671952" />
+  </node>
+  <node id="1382906515" visible="true" version="3" changeset="11733671" timestamp="2012-05-29T07:33:12Z" user="wheelmap_visitor" uid="290680" lat="47.4792328" lon="19.0679565">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="23, 23E" />
+    <tag k="name" v="Boráros tér H" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="011765" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="932.7007517249829" />
+  </node>
+  <node id="1382906523" visible="true" version="5" changeset="28799901" timestamp="2015-02-12T17:05:53Z" user="itamas80" uid="1719518" lat="47.4760354" lon="19.0778201">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Haller utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="009145" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1696.450078467749" />
+  </node>
+  <node id="1382906550" visible="true" version="1" changeset="8899996" timestamp="2011-08-02T11:43:42Z" user="flaktack" uid="55843" lat="47.4703327" lon="19.0742073">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="923" />
+    <tag k="name" v="Millenniumi Kulturális Központ" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="009310" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1677.1243879493684" />
+  </node>
+  <node id="1382906551" visible="true" version="1" changeset="8899996" timestamp="2011-08-02T11:43:43Z" user="flaktack" uid="55843" lat="47.4713207" lon="19.0733813">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="23, 54, 55, 979, 979A" />
+    <tag k="name" v="Millenniumi Kulturális Központ" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="008240" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1565.8710739994235" />
+  </node>
+  <node id="1382906549" visible="true" version="2" changeset="28774856" timestamp="2015-02-11T14:38:47Z" user="itamas80" uid="1719518" lat="47.4762205" lon="19.0785413">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Mester utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01395" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1746.5991047447283" />
+  </node>
+  <node id="1382906522" visible="true" version="5" changeset="29274818" timestamp="2015-03-05T19:50:25Z" user="zokert" uid="2347244" lat="47.4756038" lon="19.0697438">
+    <tag k="highway" v="bus_stop" />
+    <tag k="lines" v="23, 54, 55, 979, 979A" />
+    <tag k="name" v="Haller utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="ref:bkv" v="F01386" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="1116.7470999636841" />
+  </node>
+  <node id="1386007262" visible="true" version="9" changeset="29274818" timestamp="2015-03-05T19:50:26Z" user="zokert" uid="2347244" lat="47.4679701" lon="19.0756848">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Közvágóhíd H" />
+    <tag k="official_name" v="Közvágóhíd H" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F01403" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="no" />
+    <tag k="distance" v="1920.990056937402" />
+  </node>
+  <node id="1347317748" visible="true" version="11" changeset="28783672" timestamp="2015-02-11T21:18:16Z" user="itamas80" uid="1719518" lat="47.4770481" lon="19.0495610">
+    <tag k="alt_name" v="Móricz Zsigmond körtér (Karinthy Fr.út)" />
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="008089" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="485.34416232304045" />
+  </node>
+  <node id="1382906570" visible="true" version="4" changeset="28774856" timestamp="2015-02-11T14:38:50Z" user="itamas80" uid="1719518" lat="47.4770286" lon="19.0756141">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Szakorvosi rendelő" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="008501" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="no" />
+    <tag k="distance" v="1516.3959451050132" />
+  </node>
+  <node id="2440711377" visible="true" version="3" changeset="28783672" timestamp="2015-02-11T21:18:16Z" user="itamas80" uid="1719518" lat="47.4772326" lon="19.0473460">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="note" v="A route=* kapcsolatokban a villamos megálló kapcsolatát használd, mivelhogy azonos helyen álnak meg" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="637.9542942359204" />
+  </node>
+  <node id="2516567040" visible="true" version="6" changeset="28783672" timestamp="2015-02-11T21:18:16Z" user="itamas80" uid="1719518" lat="47.4770487" lon="19.0475412">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="008005" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="629.1628666911364" />
+  </node>
+  <node id="2516567072" visible="true" version="7" changeset="28812266" timestamp="2015-02-13T02:18:26Z" user="itamas80" uid="1719518" lat="47.4747099" lon="19.0467989">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Újbuda-központ M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="016727" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="791.0216361349009" />
+  </node>
+  <node id="2516566922" visible="true" version="3" changeset="28588770" timestamp="2015-02-03T13:00:19Z" user="itamas80" uid="1719518" lat="47.4798136" lon="19.0664585">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Boráros tér H" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="009359" />
+    <tag k="verified" v="no" />
+    <tag k="distance" v="828.1852047840863" />
+  </node>
+  <node id="2894336563" visible="true" version="4" changeset="28783672" timestamp="2015-02-11T21:18:16Z" user="itamas80" uid="1719518" lat="47.4767946" lon="19.0505254">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02151" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="431.28948774318326" />
+  </node>
+  <node id="2894336567" visible="true" version="5" changeset="28734261" timestamp="2015-02-09T18:35:10Z" user="Bratkó József" uid="419389" lat="47.4711614" lon="19.0623649">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Neumann János utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="062607" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="975.0779738139529" />
+  </node>
+  <node id="2894336564" visible="true" version="8" changeset="28783672" timestamp="2015-02-11T21:18:16Z" user="itamas80" uid="1719518" lat="47.4772696" lon="19.0487961">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="008090" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="wheelchair:description" v="33 autóbusz végállomás." />
+    <tag k="distance" v="531.754509032891" />
+  </node>
+  <node id="2872707805" visible="true" version="6" changeset="28734261" timestamp="2015-02-09T18:36:02Z" user="Bratkó József" uid="419389" lat="47.4737215" lon="19.0636195">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Egyetemváros - A38 hajóállomás" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="062621" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="814.7283936639507" />
+  </node>
+  <node id="2882342363" visible="true" version="6" changeset="28734261" timestamp="2015-02-09T18:35:20Z" user="Bratkó József" uid="419389" lat="47.4714883" lon="19.0636411">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Magyar tudósok körútja" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="062608" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="999.3732684593966" />
+  </node>
+  <node id="2882342362" visible="true" version="6" changeset="28734261" timestamp="2015-02-09T18:35:52Z" user="Bratkó József" uid="419389" lat="47.4732334" lon="19.0635402">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Egyetemváros - A38 hajóállomás" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="062620" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="847.8582638095884" />
+  </node>
+  <node id="2894343363" visible="true" version="4" changeset="28588770" timestamp="2015-02-03T13:04:17Z" user="itamas80" uid="1719518" lat="47.4740737" lon="19.0482556">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Újbuda-központ M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="009667" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="748.3294874349424" />
+  </node>
+  <node id="2882342364" visible="true" version="6" changeset="28734261" timestamp="2015-02-09T18:35:40Z" user="Bratkó József" uid="419389" lat="47.4722407" lon="19.0638050">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Magyar tudósok körútja" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="062622" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="942.2639038574025" />
+  </node>
+  <node id="3346270213" visible="true" version="1" changeset="28801765" timestamp="2015-02-12T18:24:15Z" user="itamas80" uid="1719518" lat="47.4777733" lon="19.0461919">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Móricz Zsigmond körtér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="F02199" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="711.816891587679" />
+  </node>
+  <node id="3346270216" visible="true" version="2" changeset="28812266" timestamp="2015-02-13T02:17:59Z" user="itamas80" uid="1719518" lat="47.4788276" lon="19.0401024">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Tas vezér utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="008040" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1163.1774377349716" />
+  </node>
+  <node id="3346270217" visible="true" version="2" changeset="28812266" timestamp="2015-02-13T02:17:59Z" user="itamas80" uid="1719518" lat="47.4789124" lon="19.0408529">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Tas vezér utca" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="008041" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="1107.0075651059065" />
+  </node>
+  <node id="3398087303" visible="true" version="1" changeset="29470281" timestamp="2015-03-14T12:31:06Z" user="itamas80" uid="1719518" lat="47.4830516" lon="19.0546330">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Szent Gellért tér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="071236" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="496.2481301170072" />
+  </node>
+  <node id="3398087304" visible="true" version="1" changeset="29470281" timestamp="2015-03-14T12:31:07Z" user="itamas80" uid="1719518" lat="47.4837490" lon="19.0542480">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Szent Gellért tér M" />
+    <tag k="operator" v="BKV" />
+    <tag k="public_transport" v="stop" />
+    <tag k="ref:bkv" v="044117" />
+    <tag k="verified" v="no" />
+    <tag k="wheelchair" v="limited" />
+    <tag k="distance" v="577.4024031207296" />
+  </node>
+  <node id="3676649249" visible="true" version="1" changeset="33034560" timestamp="2015-08-01T17:53:45Z" user="zokert" uid="2347244" lat="47.4759582" lon="19.0765750">
+    <tag k="highway" v="bus_stop" />
+    <tag k="name" v="Haller utca / Mester utca" />
+    <tag k="operator" v="BKK" />
+    <tag k="public_transport" v="stop_position" />
+    <tag k="ref" v="ideiglenes" />
+    <tag k="distance" v="1605.8920390292058" />
+  </node>
+</osm>
